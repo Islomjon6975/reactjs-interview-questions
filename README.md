@@ -24,7 +24,7 @@ You can download the PDF and Epub version of this repository from the latest run
 | No. | Questions |
 | --- | --------- |
 |   | **Core React** |
-|1  | [What is React?](#what-is-react) |
+|1  | [React nima?](#what-is-react) |
 |2  | [What are the major features of React?](#what-are-the-major-features-of-react) |
 |3  | [What is JSX?](#what-is-jsx) |
 |4  | [What is the difference between Element and Component?](#what-is-the-difference-between-element-and-component) |
