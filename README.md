@@ -367,9 +367,9 @@ You can download the PDF and Epub version of this repository from the latest run
 
 
     
-1. ### What is React?
+1. ### React nima?
 
-    React is an **open-source front-end JavaScript library** that is used for building user interfaces, especially for single-page applications. It is used for handling view layer for web and mobile apps. React was created by [Jordan Walke](https://github.com/jordwalke), a software engineer working for Facebook. React was first deployed on Facebook's News Feed in 2011 and on Instagram in 2012.
+   React bu **ochiq manbali JavaScript kutubxonasi** bo‘lib, u foydalanuvchi interfeyslarini yaratishda, ayniqsa bir sahifali ilovalar uchun ishlatiladi. U veb va mobil ilovalar uchun ko'rinish qatlamini boshqarish uchun ishlatiladi. Reaktni Facebookda ishlaydigan dasturiy ta'minot muhandisi [Jordan Walke](https://github.com/jordwalke) yaratgan. React birinchi marta Facebook-ning News Feed-da 2011-yilda va Instagram-da 2012-yilda joylashtirilgan.
 
 
    **[⬆ Back to Top](#table-of-contents)**
