@@ -34,23 +34,23 @@ You can download the PDF and Epub version of this repository from the latest run
 |8  | [Reactdagi state nima?](#what-is-state-in-react) |
 |9  | [React-da rekvizitlar(props) nima?](#what-are-props-in-react) |
 |10 | [State va Props o'rtasidagi farq nima?](#what-is-the-difference-between-state-and-props) |
-|11 | [Why should we not update the state directly?](#why-should-we-not-update-the-state-directly) |
-|12 | [What is the purpose of callback function as an argument of setState()?](#what-is-the-purpose-of-callback-function-as-an-argument-of-setstate)
-|13 | [What is the difference between HTML and React event handling?](#what-is-the-difference-between-html-and-react-event-handling) |
-|14 | [How to bind methods or event handlers in JSX callbacks?](#how-to-bind-methods-or-event-handlers-in-jsx-callbacks) |
-|15 | [How to pass a parameter to an event handler or callback?](#how-to-pass-a-parameter-to-an-event-handler-or-callback) |
-|16 | [What are synthetic events in React?](#what-are-synthetic-events-in-react) |
-|17 | [What are inline conditional expressions?](#what-are-inline-conditional-expressions) |
-|18 | [What is "key" prop and what is the benefit of using it in arrays of elements?](#what-is-key-prop-and-what-is-the-benefit-of-using-it-in-arrays-of-elements) |
-|19 | [What is the use of refs?](#what-is-the-use-of-refs) |
-|20 | [How to create refs?](#how-to-create-refs)
-|21 | [What are forward refs?](#what-are-forward-refs) |
-|22 | [Which is preferred option with in callback refs and findDOMNode()?](#which-is-preferred-option-with-in-callback-refs-and-finddomnode) |
-|23 | [Why are String Refs legacy?](#why-are-string-refs-legacy) |
-|24 | [What is Virtual DOM?](#what-is-virtual-dom) |
-|25 | [How Virtual DOM works?](#how-virtual-dom-works) |
-|26 | [What is the difference between Shadow DOM and Virtual DOM?](#what-is-the-difference-between-shadow-dom-and-virtual-dom) |
-|27 | [What is React Fiber?](#what-is-react-fiber) |
+|11 | [Nega biz stateni to'g'ridan-to'g'ri update qilmasligimiz kerak?](#why-should-we-not-update-the-state-directly) |
+|12 | [setState() argumenti sifatida callback funktsiyasining maqsadi nima?](#what-is-the-purpose-of-callback-function-as-an-argument-of-setstate)
+|13 | [HTML va React hodisalarini boshqarish o'rtasidagi farq nima?](#what-is-the-difference-between-html-and-react-event-handling) |
+|14 | [JSX callbacks da methodlarni yoki hodisalarni qayta ishlash vositalarini qanday ulash mumkin?](#how-to-bind-methods-or-event-handlers-in-jsx-callbacks) |
+|15 | [ Parametrni enent handler yoki callback larga qanday o'tkazish mumkin?](#how-to-pass-a-parameter-to-an-event-handler-or-callback) |
+|16 | [Reactdagi sintetik hodisalar nima?](#what-are-synthetic-events-in-react) |
+|17 | [Inline shartli ifodalar nima?](#what-are-inline-conditional-expressions) |
+|18 | ["Key" prop nima va uni arrayning elementlarida ishlatishning foydasi nimada?](#what-is-key-prop-and-what-is-the-benefit-of-using-it-in-arrays-of-elements) |
+|19 | [Reflardan qanday foydalanish kerak?](#what-is-the-use-of-refs) |
+|20 | [Reflarni qanday yaratish mumkin?](#how-to-create-refs)
+|21 | [Forward refs nima?](#what-are-forward-refs) |
+|22 | [Callback refs va findDOMNode() dan qaysi variant afzalroq?](#which-is-preferred-option-with-in-callback-refs-and-finddomnode) |
+|23 | [Nima uchun String Refs meros bo'lib qoldi?](#why-are-string-refs-legacy) |
+|24 | [Virtual DOM nima?](#what-is-virtual-dom) |
+|25 | [Virtual DOM qanday ishlaydi?](#how-virtual-dom-works) |
+|26 | [Shadow DOM va Virtual DOM o'rtasidagi farq nima?](#what-is-the-difference-between-shadow-dom-and-virtual-dom) |
+|27 | [React Fiber nima?](#what-is-react-fiber) |
 |28 | [What is the main goal of React Fiber?](#what-is-the-main-goal-of-react-fiber) |
 |29 | [What are controlled components?](#what-are-controlled-components) |
 |30 | [What are uncontrolled components?](#what-are-uncontrolled-components) |
